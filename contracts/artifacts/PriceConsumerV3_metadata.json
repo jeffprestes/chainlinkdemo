@@ -53,7 +53,7 @@
 			"kind": "user",
 			"methods": {
 				"constructor": {
-					"notice": "Network: Kovan Aggregator: ETH/USD Address: 0x9326BFA02ADD2366b30bacB125260Af641031331"
+					"notice": "Network: Kovan Aggregator: ETH/USD Address: 0x9326BFA02ADD2366b30bacB125260Af641031331 Network: Mumbai Aggregator: SOYA/USD Address: 0xBe6Cf84b9468d70526a3B61549BD67738316C24C"
 				},
 				"getLatestPrice()": {
 					"notice": "Returns the latest price"
@@ -87,11 +87,11 @@
 			]
 		},
 		"priceeth.sol": {
-			"keccak256": "0x1535c573a8c38d0f887fba792bd50e2e4d6ad348175f6995e47dc89e99295038",
+			"keccak256": "0xab6ca27bc3b79aaa6ade42d4204b738c47ca73911e09b19338b2620d9c6a9a3d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f28facaebe1fadebc4227a9458e364fcbb8d7d067ea225438ad514b19f9f21f5",
-				"dweb:/ipfs/QmVowQJgat9s6QE3wasinouXgn7P6BVL2YbiWBboem5EDE"
+				"bzz-raw://98a686f631967245c2a5d4512194c0a50c2d72b8666e9060de4fbd079d848296",
+				"dweb:/ipfs/QmTPJixTeNbAPoJoFfD3cNLNtEaj9wJRzjgjS3XhY9g9rR"
 			]
 		}
 	},

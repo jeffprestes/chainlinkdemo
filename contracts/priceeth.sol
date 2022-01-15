@@ -11,9 +11,12 @@ contract PriceConsumerV3 {
      * Network: Kovan
      * Aggregator: ETH/USD
      * Address: 0x9326BFA02ADD2366b30bacB125260Af641031331
+     * Network: Mumbai
+     * Aggregator: SOYA/USD
+     * Address: 0xBe6Cf84b9468d70526a3B61549BD67738316C24C
      */
     constructor() {
-        priceFeed = AggregatorV3Interface(0x7794ee502922e2b723432DDD852B3C30A911F021);
+        priceFeed = AggregatorV3Interface(0xBe6Cf84b9468d70526a3B61549BD67738316C24C);
     }
 
     /**
